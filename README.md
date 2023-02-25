@@ -1,4 +1,7 @@
 # parserOxford
+# парсинг сайтов Oxford и Cambridge с целью получения готоввых предложений по заданному списку слов
+
+
 Репозиторий представляет собой программу из 5 классов:  
 FormingTemplates, ParserSiteOxford, ReadFile, WorkForString, WriteFile.  
   
